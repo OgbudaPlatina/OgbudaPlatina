@@ -1,45 +1,64 @@
-<h1 align="center">Hi 👋, I'm Emil Mingazov</h1>
-<h3 align="center">A passionate beginner developer from Russia 🇷🇺</h3>
+<h1 align="center">✨ Welcome to Emil Mingazov's GitHub ✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-</p>
-
-- 🌱 I’m currently learning **Python, Django, and Frontend Basics**
-
-- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/your-username)
-
-- 💬 Ask me about **web development, Django, or anything tech**
-
-- 📫 How to reach me **mingazov@example.com**
-
-- ⚡ Fun fact: I love coding at night 🌙
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats:
+## 👨‍💻 About Me
+
+Hi, I'm **Emil Mingazov**, an aspiring Python developer, exploring the world of technology and building projects step-by-step.  
+I love solving problems with code and am currently improving my skills in:
+
+- Python 🐍
+- Web Development 🌐
+- Data Science 📊
+- Automation ⚙️
+
+> 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+## 🚀 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux" />
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emilmingazov&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilmingazov&theme=radical" width="49%"/>
 </p>
 
 ---
 
-### 🎯 Quote of the day:
-> "First, solve the problem. Then, write the code." — John Johnson
+## 🧠 Quote of the Day
+
+> 🧘 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+
+---
+
+## 🎨 Art & Imagination
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 📫 Contact
+
+Feel free to reach out via:
+
+- 💼 LinkedIn: *coming soon*
+- 📬 Email: *your-email@example.com*
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="180" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Keep+learning,+keep+growing!;Happy+coding+💻&center=true&width=380&height=45">
 </p>
